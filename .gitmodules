@@ -4,3 +4,6 @@
 [submodule "pcb/orthmygoat/random-keyboard-parts.pretty"]
 	path = pcb/orthmygoat/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "pcb/orthmygoat/keyswitches.pretty"]
+	path = pcb/orthmygoat/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
